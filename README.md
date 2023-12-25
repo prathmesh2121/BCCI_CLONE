@@ -4,6 +4,8 @@ This project is a clone of the Board of Control for Cricket in India (BCCI) webs
 
 # Features
 ~ Latest Schedule and News: The index page dynamically displays the latest schedule and news, keeping users informed about upcoming events and updates.
+
 ~ Player Categorization : The players' page categorizes annual international contracted players based on their pay categories, offering an organized view of the player roster.
+
 ~ Admin Operations : Streamlined administrative operations facilitate efficient management of schedules, news updates, and player information.
 
