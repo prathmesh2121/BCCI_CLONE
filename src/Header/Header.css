@@ -1,0 +1,93 @@
+#head
+{
+    font-size: 50px;
+    display: block;
+    background: #004FF9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFF94C, #004FF9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFF94C, #004FF9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    height: 90px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: -65px;
+}
+h5
+{
+    top: 0px;
+    position: relative;
+    color: white;
+    font-size: 15px;
+}
+#logo
+{
+    height: 85px;
+    width: 90px;
+    left: 560px;
+    top: -80px;
+    position: relative;
+    margin: -10px;
+}
+#flag1
+{
+    height: 75px;
+    width: 106px;
+    left: -570px;
+    top: -80px;
+    position: relative;   
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  #menu1
+  {
+      position: relative;
+      top: -70px;
+  }
+  #h1
+  {
+      font-size: 30px;
+      position: relative;
+      top: 7px;
+      font-size: 40px;
+      font-weight: bold;
+      font-family: 'Times New Roman', Times, serif;
+  }
+  
+  li {
+    float: left;
+    border-right: 1px solid #bbb;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+  #myNav
+  {
+        width: 100%;
+        position: relative;
+        top: -149px;
+
+  }
+  .a1
+  {
+        font-size: 17px;
+        margin: -5px;
+  }
