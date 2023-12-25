@@ -9,8 +9,8 @@ This project is a clone of the Board of Control for Cricket in India (BCCI) webs
 
 ~ Admin Operations : Streamlined administrative operations facilitate efficient management of schedules, news updates, and player information.
 
-#FRONTEND - REACT
-#BACKEND  - NODEJS / EXPRESSJS
+# FRONTEND - REACT
+# BACKEND  - NODEJS / EXPRESSJS
 
 # Output 
 ![Screenshot 2023-12-25 223918](https://github.com/prathmesh2121/BCCI_CLONE/assets/100065581/878ad5a0-9e95-48e7-bc5c-431e8bb8d320)
